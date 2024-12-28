@@ -124,3 +124,7 @@ tuple            sequence of items                                        (1, 2,
 set              sequence of items                                        {1, 2, 3, 4, 5}
 dict             key-value pair                                           {"name": "Purna", "age": 22, "phone": "9829845767"}
 
+5. # Example Here: 
+# write a code to store the library  books add a library_name, total book, book name, average rating, author name, location, publisher, contact number open, close time, time and price of the book.
+
+# This code use of input user interface :
