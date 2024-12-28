@@ -131,3 +131,14 @@ dict             key-value pair                                           {"name
 
 # Challange 5: 
 # Write a program that takes user input for year of birth (as a string) in the format 'YYYY’ and finds the age of the person. The program should handle the case where the user enters a future year?
+
+
+# Comment:
+comment are text in a program that is not executed.
+
+# Advantage  of comment :
+you can describe the code in a human-readable way
+Other people can read the code and understand what it does
+The code is easier to maintain and modify
+comment provide additional information or context to the code
+the help in understanding the code and debugging the code
