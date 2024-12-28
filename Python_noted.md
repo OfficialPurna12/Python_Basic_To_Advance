@@ -82,3 +82,21 @@ write a program to print 10 different cities name and their famous tourist place
 3. challenge enter your name , age , phone number and address  in user input and print it.
 
 
+5. What is Variable ?
+Variable is a container for storing data values. it is a name given to a memory location to store data values.
+Syntax : variable_name = value
+
+4. Why use variable ?
+- Store Data
+- Readability
+- Flexibility
+- Reusability
+
+5. Rules of variable name ?
+- Variable name are case sensitive example : name , Name , NAME
+- Variable name can't start with number example : 1name
+- Variable name can't start with special character example : @name
+- Variable name can't contain space example : name new
+- Variable name can't contain special character example : name@
+- keyword are not allowed example : def , for , while , if , else , elif , try , except , finally , class , import , return , yield , global , nonlocal , assert , with , lambda , async , await
+
