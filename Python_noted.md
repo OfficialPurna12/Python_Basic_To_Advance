@@ -1,3 +1,4 @@
+# Unit One : Python
 1. What is Python ?
 Python is world's most popular programming Language.  it is a beginner friendly programming language . use in web development, artificial intelligence, data science and many more. 
 
@@ -82,6 +83,8 @@ write a program to print 10 different cities name and their famous tourist place
 3. challenge enter your name , age , phone number and address  in user input and print it.
 
 
+# Unit Two : Variable
+
 5. What is Variable ?
 Variable is a container for storing data values. it is a name given to a memory location to store data values.
 Syntax : variable_name = value
@@ -99,4 +102,25 @@ Syntax : variable_name = value
 - Variable name can't contain space example : name new
 - Variable name can't contain special character example : name@
 - keyword are not allowed example : def , for , while , if , else , elif , try , except , finally , class , import , return , yield , global , nonlocal , assert , with , lambda , async , await
+
+3. Challenge 3 :
+Write down what you spend each day from Sunday to Saturday, add them up to find the total for
+the week, and figure out the average amount spent per day.
+
+
+# Unit Three : Data Type:
+
+1. What is Data Type ?
+Data type define the type of data that is stored in a variable. python has several build-in data types that are used to store different types of data.
+
+2. Common Data types in python :
+Datatype               Description                                       Example
+int              positive and negative number without decimal             1, 2, 3, 4, 5
+float            positive and negative number with decimal                 1.0, 2.0, 3.0,
+str              sequence of character                                    "Hello", "World", "Python"
+bool             True or False                                           True, False
+list             sequence of items                                        [1, 2, 3, 4, 5]
+tuple            sequence of items                                        (1, 2, 3, 4, 5)
+set              sequence of items                                        {1, 2, 3, 4, 5}
+dict             key-value pair                                           {"name": "Purna", "age": 22, "phone": "9829845767"}
 
