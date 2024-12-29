@@ -142,3 +142,6 @@ Other people can read the code and understand what it does
 The code is easier to maintain and modify
 comment provide additional information or context to the code
 the help in understanding the code and debugging the code
+
+# Write a program that checks if a given number is even or odd. Take user input for the number,perform the check, and print the result. Include comments explaining each part of the code.
+
