@@ -196,3 +196,4 @@ Symbol 	Description 	Example
 //= 	Floor division assignment 	x //= 3
 
 
+# Write a program that takes the ages of two people as input from the user. Compare the irages using comparison operators (==, !=, >, <, >=, <=) and print messages indicating the results (e.g., "Person 1 is older than Person 2").
