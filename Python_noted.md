@@ -145,3 +145,54 @@ the help in understanding the code and debugging the code
 
 # Write a program that checks if a given number is even or odd. Take user input for the number,perform the check, and print the result. Include comments explaining each part of the code.
 
+
+# Write a program that takes user input for a temperature in Celsius and converts it to Fahrenheit. Perform the conversion and print the result. Include comments explaining each part of the code.
+
+# Write a program that takes user input for a number and checks if it is positive, negative, or zero. Perform the check and print the result. Include comments explaining each part of the code.
+
+# Unit Four : Operators
+
+1. What is Operator ?
+Operator are used to perform mathematical or logical operations on variables and values.
+Example :
+3+3 = 6
+
+Here are some common operators in Python:
+
+1. Arithmetic Operators
+Symbol 	Description 	Example
++ 	Addition 	3 + 3 = 6
+- 	Subtraction 	3 - 3 = 0
+* 	Multiplication 	3 * 3 = 9
+/ 	Division 	3 / 3 = 1
+% 	Modulus 	3 % 3 = 0
+** 	Exponentiation 	3 ** 3 = 27
+// 	Floor division 	3 // 3 = 1
+
+2. Comparison Operators
+Symbol 	Description 	Example
+== 	Equal to 	3 == 3
+!= 	Not equal to 	3 != 3
+> 	Greater than 	3 > 3
+< 	Less than 	3 < 3
+>= 	Greater than or equal to 	3 >= 3
+<= 	Less than or equal to 	3 <= 3
+
+3. Logical Operators
+Symbol 	Description 	Example
+and 	Logical AND 	True and True = True
+or 	Logical OR 	True or False = True
+not 	Logical NOT 	not True = False    
+
+4. Assignment Operators
+Symbol 	Description 	Example
+= 	Assignment 	x = 5
++= 	Addition assignment 	x += 3
+-= 	Subtraction assignment 	x -= 3
+*= 	Multiplication assignment 	x *= 3
+/= 	Division assignment 	x /= 3
+%= 	Modulo assignment 	x %= 3
+**= 	Exponentiation assignment 	x **= 3
+//= 	Floor division assignment 	x //= 3
+
+
