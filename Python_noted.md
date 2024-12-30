@@ -197,3 +197,24 @@ Symbol 	Description 	Example
 
 
 # Write a program that takes the ages of two people as input from the user. Compare the irages using comparison operators (==, !=, >, <, >=, <=) and print messages indicating the results (e.g., "Person 1 is older than Person 2").
+
+# Unit five : Randomisation in python
+
+1. What is Randomisation ?
+Randomisation is the process of generating a sequence of numbers that are not repeatable. This means that each time the program is run, the same sequence of numbers will be generated.
+
+2. Why use randomisation ?
+- Generate random numbers
+- Simulate random events
+- Generate random choices
+- Generate random sequences
+- Generate random data sets
+
+3. How to use randomisation ?
+- Import the random module
+- Use the random() function to generate a random number between 0 and 1
+- Use the randrange() function to generate a random number between a specified range
+- Use the shuffle() function to shuffle a list
+- Use the choice() function to choose a random element from a list
+
+#
